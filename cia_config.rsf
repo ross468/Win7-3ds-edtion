@@ -1,0 +1,28 @@
+BasicInfo:
+  Title                   : "Windows 7 3DS"
+  CompanyCode             : "00"
+  ProductCode             : "W73D"
+  ContentType             : Application
+  Logo                    : Nintendo
+
+TitleInfo:
+  Category                : Application
+  UniqueId                : 0xF73D7
+
+Option:
+  UseOnPairedConsole      : false
+  EnableFinishedCheck     : true
+  ControlMemory           : 2MB
+  RunOnSD                 : true
+
+SystemControlInfo:
+  SaveDataSize            : 128KB
+  StackSize               : 64KB
+
+AccessControlInfo:
+  CoreVersion             : 2
+  IdealProcessor          : 0
+  Priority                : 48
+  MemoryType              : Application
+  SystemMode              : 64MB
+  AppType                 : RegularApplication
